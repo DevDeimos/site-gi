@@ -1,1 +1,1 @@
-"# site-gi" 
+"# Site do curso de Gestão da Informação" 
